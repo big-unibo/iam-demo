@@ -2,7 +2,7 @@
 set -exo
 sudo apt update # update the packages
 sudo apt install -y libaio1 libaio-dev python3.8-venv unzip # install the necessary linux commands
-find . -type f -iname "*.sh" -exec chmod +x {} \; # make scripts executable
+chmod +x *.sh
 . ./init.sh # configure the repository
 if [ -f .env ]; then # load the environment variables
   set -a

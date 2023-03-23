@@ -13,10 +13,14 @@ cp intentional/src/main/resources/config.example.yml intentional/src/main/resour
 echo "Replacing ../web/js/config.example.js ../web/js/config.js"
 cp web/js/config.example.js web/js/config.js
 
+DEFIP=$(hostname -I | cut -d' ' -f1)
+IP=${1:-$DEFIP}
 P="$(pwd)/intentional"
 echo $P
 sed -i "s+\!HOME\!+${P}+g" intentional/src/main/resources/config.yml
+sed -i "s/127.0.0.1/$IP/g" intentional/src/main/resources/config.yml
 sed -i "s+\!HOME\!+${P}+g" .env
+sed -i "s/127.0.0.1/$IP/g" .env
 
 cd intentional/src/main/python
 if [ -d venv ]; then
