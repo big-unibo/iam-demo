@@ -6,6 +6,8 @@ set -exo
 ############################################################
 echo "Replacing .env.example with .env"
 cp .env.example .env
+rm intentional/.env || true
+ln .env intentional/.env
 echo "Replacing intentional/src/main/resources/config.example.yml intentional/src/main/resources/config.yml"
 cp intentional/src/main/resources/config.example.yml intentional/src/main/resources/config.yml
 echo "Replacing ../web/js/config.example.js ../web/js/config.js"
