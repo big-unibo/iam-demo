@@ -9,7 +9,7 @@ services:
     ports:
       - "${TOMCAT_PORT}:8080"
     volumes:
-      - ./intentional/build/libs/IAM-Demo.war:/usr/local/tomcat/webapps/IAM-Demo.war
+      - ./intentional/deploy:/usr/local/tomcat/webapps/
 
   lamp:
     init: true
