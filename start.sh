@@ -14,10 +14,10 @@ export LD_LIBRARY_PATH=${LD_LIBRARY_PATH} # set the environment variable
 sudo docker-compose up --build -d # run the docker stack
 ./wait-for-it.sh ${ORACLE_IP}:${ORACLE_PORT} --strict --timeout=0 -- echo "ORACLE is up" # check if the services are running
 ./wait-for-it.sh ${TOMCAT_IP}:${TOMCAT_PORT} --strict --timeout=0 -- echo "TOMCAT is up" # check if the services are running
-./wait-for-it.sh ${LAMP_IP}:${LAMP_PORT} --strict --timeout=0 -- echo "TOMCAT is up" # check if the services are running
+./wait-for-it.sh ${LAMP_IP}:${LAMP_PORT} --strict --timeout=0 -- echo "LAMP is up" # check if the services are running
 until [ -f resources/.ready ] # wait for oracle to be ready
 do
-    # docker logs oracledb | tail -n 10
+    sudo docker logs oracledb | tail -n 10
     sleep 10
 done
 echo "All databases have been imported!"
