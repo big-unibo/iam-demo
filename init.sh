@@ -13,7 +13,7 @@ cp intentional/src/main/resources/config.example.yml intentional/src/main/resour
 echo "Replacing ../web/js/config.example.js ../web/js/config.js"
 cp web/js/config.example.js web/js/config.js
 
-P=$(pwd)
+P="$(pwd)/intentional"
 echo $P
 sed -i "s+\!HOME\!+${P}+g" intentional/src/main/resources/config.yml
 sed -i "s+\!HOME\!+${P}+g" .env
@@ -22,7 +22,7 @@ cd intentional/src/main/python
 if [ -d venv ]; then
     echo "venv already exists"
 else
-    if [[ "$(python -V 2>&1)" == "Python 3" ]]; then
+    if [[ "$(python -V 2>&1)" =~ "Python 3" ]]; then
         echo "python found"
         python -m venv venv
     fi
