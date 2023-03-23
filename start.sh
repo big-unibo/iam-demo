@@ -25,4 +25,4 @@ echo "All databases have been imported!"
 cd intentional
 ./gradlew --stacktrace --scan # build the kotlin application
 rm deploy/IAM-demo.war || true
-cp build/libs/IAM-demo.war deploy
+cp build/libs/IAM-demo.war deploy/
