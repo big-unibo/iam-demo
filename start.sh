@@ -12,7 +12,7 @@ fi
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH} # set the environment variable
 . ./download.sh # download the datasets
 ./stop.sh
-docker-compose up --build -d # run the docker stack
+docker-compose up --build --remove-orphans -d # run the docker stack
 ./wait-for-it.sh ${ORACLE_IP}:${ORACLE_PORT} --strict --timeout=0 -- echo "ORACLE is up" # check if the services are running
 ./wait-for-it.sh ${TOMCAT_IP}:${TOMCAT_PORT} --strict --timeout=0 -- echo "TOMCAT is up" # check if the services are running
 ./wait-for-it.sh ${LAMP_IP}:${LAMP_PORT} --strict --timeout=0 -- echo "LAMP is up" # check if the services are running
@@ -24,6 +24,5 @@ done
 echo "All databases have been imported!"
 cd intentional
 ./gradlew --stacktrace --scan # build the kotlin application
-sudo rm -rf deploy/* || true
-touch deploy/.dummy
 cp build/libs/IAM-Demo.war deploy/
+cd -
