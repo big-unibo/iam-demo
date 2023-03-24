@@ -10,8 +10,9 @@ services:
     ports:
       - "${TOMCAT_PORT}:8080"
     volumes:
-      - ./intentional/deploy:/usr/local/tomcat/webapps/ # map the deploy folder
-      - "./intentional/src/main/python:${HOME}/src/main/python/" # map the python content
+      - ./intentional/deploy:/usr/local/tomcat/webapps # map the deploy folder
+      - "./intentional/libs:${HOME}/libs" # map the python content
+      - "./intentional/src/main/python:${HOME}/src/main/python" # map the python content
       - "${HOME}/src/main/python/venv/" # exclude the venv folder
 
   lamp:
