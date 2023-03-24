@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 FROM tomcat:9.0
-RUN apt update && apt install software-properties-common curl -y
+RUN apt update && apt install software-properties-common curl libaio1 libaio-dev -y
 RUN add-apt-repository ppa:deadsnakes/ppa 
 RUN apt install python3.8 python3.8-distutils -y
 RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
