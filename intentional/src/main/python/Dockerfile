@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM tomcat:9.0
+FROM tomcat:10.1
 RUN apt update && apt install software-properties-common curl libaio1 libaio-dev -y
 RUN add-apt-repository ppa:deadsnakes/ppa 
 RUN apt install python3.8 python3.8-distutils -y
