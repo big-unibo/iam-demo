@@ -5,11 +5,14 @@ services:
     init: true
     hostname: tomcat
     container_name: tomcat
-    image: tomcat:9.0
+    # image: tomcat:9.0
+    build: intentional/src/main/python
     ports:
       - "${TOMCAT_PORT}:8080"
     volumes:
-      - ./intentional/deploy:/usr/local/tomcat/webapps/
+      - ./intentional/deploy:/usr/local/tomcat/webapps/ # map the deploy folder
+      - "./intentional/src/main/python:${HOME}/src/main/python/" # map the python content
+      - "${HOME}/src/main/python/venv/" # exclude the venv folder
 
   lamp:
     init: true

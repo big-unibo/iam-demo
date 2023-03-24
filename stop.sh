@@ -14,3 +14,4 @@ cd intentional
 sudo rm -rf build/ || true
 sudo rm -rf deploy/*
 touch deploy/.dummy
+cd -
