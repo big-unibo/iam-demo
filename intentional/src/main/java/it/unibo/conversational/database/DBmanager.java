@@ -185,6 +185,7 @@ public final class DBmanager {
         } else {
             throw new IllegalArgumentException(cube.getDbms() + " DBMS unknown");
         }
+        System.out.println(schemaDBstringConnection);
         return DriverManager.getConnection(schemaDBstringConnection, username, password);
     }
 
