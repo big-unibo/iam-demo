@@ -29,11 +29,7 @@ jobs:
           python-version: '3.8'
       - name: Run docker
         run: |
-          cd intentional
           chmod +x *.sh
-          ./init.sh
-          ./build.sh
-          ./download.sh
           ./start.sh
           ./stop.sh
 

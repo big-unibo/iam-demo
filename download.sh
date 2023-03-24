@@ -1,6 +1,6 @@
 #!/bin/bash
 set -exo
-
+cd intentional
 cd resources
 if [ ! -f "foodmart-mysql.sql" ]; then 
     curl -k -o foodmart-mysql.sql https://big.csr.unibo.it/projects/nosql-datasets/foodmart-mysql.sql
@@ -38,7 +38,10 @@ if [ ! -f "instantclient-basic-windows.x64-21.3.0.0.0.zip" ]; then
     unzip instantclient-basic-windows.x64-21.3.0.0.0.zip
     chmod -R 777 instantclient_21_3
 fi
-curl -k -o db-migration-0.1.0.jar https://big.csr.unibo.it/projects/nosql-datasets/db-migration-0.1.0.jar
+if [ ! -f "db-migration-0.1.0.jar" ]; then 
+    curl -k -o db-migration-0.1.0.jar https://big.csr.unibo.it/projects/nosql-datasets/db-migration-0.1.0.jar
+fi
 
 ls -las
 cd -
+cd ..

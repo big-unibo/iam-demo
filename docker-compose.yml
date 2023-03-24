@@ -1,0 +1,42 @@
+version: "3.9"
+services:
+
+  tomcat:
+    init: true
+    hostname: tomcat
+    container_name: tomcat
+    # image: tomcat:9.0
+    build: intentional/src/main/python
+    environment:
+      - "LD_LIBRARY_PATH=${LD_LIBRARY_PATH}"
+    ports:
+      - "${TOMCAT_PORT}:8080"
+    volumes:
+      - ./intentional/deploy:/usr/local/tomcat/webapps # map the deploy folder
+      - "./intentional/libs:${MYHOME}/libs" # map the python content
+      - "./intentional/src/main/python:${MYHOME}/src/main/python" # map the python content
+      - "${MYHOME}/src/main/python/venv/" # exclude the venv folder
+
+  lamp:
+    init: true
+    hostname: lamp
+    container_name: lamp
+    image: mattrayner/lamp:latest-1804
+    ports:
+      - "${LAMP_PORT}:80"
+    volumes:
+      - ./web:/var/www/html
+
+  oracledb:
+    init: true
+    hostname: oracledb
+    container_name: oracledb
+    build: intentional/dockerimages/oracle11g
+    environment:
+      - ORACLE_DISABLE_ASYNCH_IO=true
+      - ORACLE_ALLOW_REMOTE=true
+    ports:
+      - "${ORACLE_PORT}:1521"
+      - 5500:5500
+    volumes:
+      - ./intentional/resources/:/data

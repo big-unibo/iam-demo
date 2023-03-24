@@ -17,11 +17,7 @@ Running the experiments requires the following software to be installed:
 
 Once the software is installed, execute the following code to run the tests.
 
-    cd intentional
     chmod +x *.sh
-    ./init.sh
-    ./build.sh
-    ./download.sh
     ./start.sh
     ./stop.sh
 
