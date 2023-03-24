@@ -361,7 +361,7 @@ public abstract class Intention implements IIntention {
         } else if (new File(pythonPath + "venv/bin").exists()) {
             commandPath = pythonPath + "venv/bin/python " + pythonPath + pythonModule + " ";
         } else {
-            commandPath = "python " + pythonPath + pythonModule + " ";
+            commandPath = "python3.8 " + pythonPath + pythonModule + " ";
         }
         long startTime = System.currentTimeMillis();
         final Process proc = Runtime.getRuntime().exec(toPythonCommand(commandPath, outputPath));
