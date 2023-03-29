@@ -1,3 +1,24 @@
+## [1.0.16](https://github.com/big-unibo/iam-demo/compare/1.0.15...1.0.16) (2023-03-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.9.0 ([2600c63](https://github.com/big-unibo/iam-demo/commit/2600c6341d4e4ae8127e8ef225edae7bf3afd06f))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.0 ([407424c](https://github.com/big-unibo/iam-demo/commit/407424c5a837c35d0cdd11e8b423dbd2cfe6c38c))
+* **deps:** update actions/setup-java action to v3.11.0 ([c964c39](https://github.com/big-unibo/iam-demo/commit/c964c39d11185aa3c1bde4ae63695fed8fb7d983))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.21 ([5127328](https://github.com/big-unibo/iam-demo/commit/5127328005ac2ff252c3b4c2d2d898646561ae25))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.22 ([b1b5e6f](https://github.com/big-unibo/iam-demo/commit/b1b5e6f8c7f596a8f94a40a0c80d9a5e58eaa7c0))
+* **deps:** update tomcat docker tag to v10 ([512e517](https://github.com/big-unibo/iam-demo/commit/512e517bd0c1153aab5653c70235e2a270f626e4))
+* **deps:** update tomcat docker tag to v11 ([ce95069](https://github.com/big-unibo/iam-demo/commit/ce950692c4516338bba03cd998e7a30ffc2b0aed))
+
 ## [1.0.15](https://github.com/big-unibo/iam-demo/compare/1.0.14...1.0.15) (2023-03-21)
 
 
