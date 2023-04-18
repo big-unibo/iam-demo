@@ -1,3 +1,26 @@
+## [1.0.17](https://github.com/big-unibo/iam-demo/compare/1.0.16...1.0.17) (2023-04-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mysql:mysql-connector-java to v8.0.33 ([839af29](https://github.com/big-unibo/iam-demo/commit/839af29d4475abccd7c7ecfb65effed527e4b772))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.23 ([7016998](https://github.com/big-unibo/iam-demo/commit/7016998ee525280aaa3223b97d5dc6344d1d8743))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.24 ([8234697](https://github.com/big-unibo/iam-demo/commit/82346970c1a183f1bfd3a24f301a859fe0cae27c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.25 ([4105c85](https://github.com/big-unibo/iam-demo/commit/4105c8518b47973b73bcfb6b2ca28267b62e37ae))
+* **deps:** update dependency sqlalchemy to v2.0.8 ([ef030ff](https://github.com/big-unibo/iam-demo/commit/ef030fff35d3c51bce4267d413aec88567433ca6))
+* **deps:** update dependency sqlalchemy to v2.0.9 ([e36b7cb](https://github.com/big-unibo/iam-demo/commit/e36b7cb9d15ddd650ed432fc0b5b6a4035ae2a31))
+* **deps:** update node.js to 18.16 ([01e9887](https://github.com/big-unibo/iam-demo/commit/01e9887f47a06838d632d08270464d776986b863))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.1 ([7cad317](https://github.com/big-unibo/iam-demo/commit/7cad317bf670f8582381b6cc90064416af4a1244))
+* **deps:** update actions/checkout action to v3.5.2 ([487acb3](https://github.com/big-unibo/iam-demo/commit/487acb3589f1a1ead0c0416eb65840c488d50ca4))
+
 ## [1.0.16](https://github.com/big-unibo/iam-demo/compare/1.0.15...1.0.16) (2023-03-29)
 
 
