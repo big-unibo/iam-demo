@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/big-unibo/iam-demo/compare/1.0.17...1.0.18) (2023-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.0 ([3bd65dc](https://github.com/big-unibo/iam-demo/commit/3bd65dcd319a98e8cdd773b90330d42e136962e0))
+
 ## [1.0.17](https://github.com/big-unibo/iam-demo/compare/1.0.16...1.0.17) (2023-04-18)
 
 
