@@ -1,3 +1,16 @@
+## [1.0.19](https://github.com/big-unibo/iam-demo/compare/1.0.18...1.0.19) (2023-04-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.15.0 ([74dc8fa](https://github.com/big-unibo/iam-demo/commit/74dc8fa6ceab3930144e59b026067729dbf09578))
+
+
+### Dependency updates
+
+* **deps:** update dependency numpy to v1.24.3 ([d2f7022](https://github.com/big-unibo/iam-demo/commit/d2f70227cda3ea4a9848a34058b4edf341023da7))
+* **deps:** update dependency sqlalchemy to v2.0.10 ([01fab02](https://github.com/big-unibo/iam-demo/commit/01fab02d2107c31b80911ca56bd51f0cce458ef6))
+
 ## [1.0.18](https://github.com/big-unibo/iam-demo/compare/1.0.17...1.0.18) (2023-04-19)
 
 
