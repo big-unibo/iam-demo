@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/big-unibo/iam-demo/compare/1.0.20...1.0.21) (2023-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.4 ([bfefaaa](https://github.com/big-unibo/iam-demo/commit/bfefaaa1998d3ea3c1fbf7c812b4a93c43279b1c))
+
 ## [1.0.20](https://github.com/big-unibo/iam-demo/compare/1.0.19...1.0.20) (2023-04-24)
 
 
