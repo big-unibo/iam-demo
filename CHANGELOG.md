@@ -1,3 +1,10 @@
+## [1.0.22](https://github.com/big-unibo/iam-demo/compare/1.0.21...1.0.22) (2023-04-26)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.9.3 ([7e7c241](https://github.com/big-unibo/iam-demo/commit/7e7c2413db803cdeeb742ca20f876422e55178c1))
+
 ## [1.0.21](https://github.com/big-unibo/iam-demo/compare/1.0.20...1.0.21) (2023-04-25)
 
 
