@@ -1,3 +1,18 @@
+## [1.0.23](https://github.com/big-unibo/iam-demo/compare/1.0.22...1.0.23) (2023-05-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jgrapht:jgrapht-core to v1.5.2 ([d16e507](https://github.com/big-unibo/iam-demo/commit/d16e50788f3d7273703b6564dd434cd64247cc8d))
+
+
+### Dependency updates
+
+* **deps:** update dependency requests to v2.29.0 ([d3363e0](https://github.com/big-unibo/iam-demo/commit/d3363e09d2fa14654bd8a6e80f813d0e8a69456c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.26 ([d5fe0dd](https://github.com/big-unibo/iam-demo/commit/d5fe0dd460facd62cbe5657acdfcbc56eaa12b2e))
+* **deps:** update dependency sqlalchemy to v2.0.11 ([8f5f4ef](https://github.com/big-unibo/iam-demo/commit/8f5f4ef625ca9cdc5eb7082d550f9d096a9c6e4c))
+* **deps:** update dependency sqlalchemy to v2.0.12 ([5c67c41](https://github.com/big-unibo/iam-demo/commit/5c67c4111dcdf4c81024d5cffe8ce3e4471516ee))
+
 ## [1.0.22](https://github.com/big-unibo/iam-demo/compare/1.0.21...1.0.22) (2023-04-26)
 
 
