@@ -1,3 +1,18 @@
+## [1.0.24](https://github.com/big-unibo/iam-demo/compare/1.0.23...1.0.24) (2023-05-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.12.0 ([ee55341](https://github.com/big-unibo/iam-demo/commit/ee553419770c9cbaca3fe952ec978fc99b0a8df8))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.23.0 ([2ba6bf9](https://github.com/big-unibo/iam-demo/commit/2ba6bf9f41c9304a46c647c8c47b2629c40b9297))
+* **deps:** update dependency ipykernel to v6.23.1 ([f140f74](https://github.com/big-unibo/iam-demo/commit/f140f7485225340340a81d193eae52f6e4dd5f51))
+* **deps:** update dependency requests to v2.30.0 ([ac9e221](https://github.com/big-unibo/iam-demo/commit/ac9e221886b1fe5a8fc8b65199951bcfcfaa639a))
+* **deps:** update dependency sqlalchemy to v2.0.13 ([950cd42](https://github.com/big-unibo/iam-demo/commit/950cd42091e2d72452b18100b4116039fa2416c5))
+
 ## [1.0.23](https://github.com/big-unibo/iam-demo/compare/1.0.22...1.0.23) (2023-05-03)
 
 
