@@ -1,3 +1,15 @@
+## [1.0.27](https://github.com/big-unibo/iam-demo/compare/1.0.26...1.0.27) (2023-05-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.13.0 ([45a24cd](https://github.com/big-unibo/iam-demo/commit/45a24cd3367156273b9cac9efe0cd38cfbe53a14))
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.15 ([89e8467](https://github.com/big-unibo/iam-demo/commit/89e8467a85aaea999a5bd7c7fc9e8a88b4713dfc))
+
 ## [1.0.26](https://github.com/big-unibo/iam-demo/compare/1.0.25...1.0.26) (2023-05-19)
 
 
