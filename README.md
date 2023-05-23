@@ -2,6 +2,10 @@
 
 [![build](https://github.com/w4bo/iam-demo/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/w4bo/iam-demo/actions/workflows/build.yml)
 
+## Research papers
+
+Please refer to the following research paper:
+
 Demo presented at EDBT 2023
 - Francia, Matteo, et al. "Describing and Assessing Cubes Through Intentional Analytics." **Proceedings 26th International Conference on Extending Database Technology (EDBT).** 2023.
 
