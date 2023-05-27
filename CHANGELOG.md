@@ -1,3 +1,15 @@
+## [1.0.29](https://github.com/big-unibo/iam-demo/compare/1.0.28...1.0.29) (2023-05-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v32 ([eb5a3f0](https://github.com/big-unibo/iam-demo/commit/eb5a3f037a114c717fd492deb0eff4297aad7b0e))
+
+
+### Build and continuous integration
+
+* **deps:** update jamesives/github-pages-deploy-action action to v4.4.2 ([906bfd1](https://github.com/big-unibo/iam-demo/commit/906bfd15096e80e893d4c6cc387412b3024ddc9c))
+
 ## [1.0.28](https://github.com/big-unibo/iam-demo/compare/1.0.27...1.0.28) (2023-05-26)
 
 
