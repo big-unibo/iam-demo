@@ -1,3 +1,25 @@
+## [1.0.35](https://github.com/big-unibo/iam-demo/compare/1.0.34...1.0.35) (2023-06-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20230618 ([f9e78b9](https://github.com/big-unibo/iam-demo/commit/f9e78b9665d0da66c70760a394713d96dd367d41))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.3 ([515d201](https://github.com/big-unibo/iam-demo/commit/515d201e355f82f959de78d303e86fe04c62e0b9))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.23.2 ([e82ad8c](https://github.com/big-unibo/iam-demo/commit/e82ad8c3046dfc6ae55cdb4ca973091c68b277d2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.33 ([98b2c0d](https://github.com/big-unibo/iam-demo/commit/98b2c0d2e1cd51a4cb3015e1d4fb0c14d6ef0f67))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.34 ([d48621c](https://github.com/big-unibo/iam-demo/commit/d48621cb4bd95c2f1b9bb5a27902b913d0988b9a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.35 ([71061f0](https://github.com/big-unibo/iam-demo/commit/71061f08dd6ff7394d73f7e885e011cb54edf2e2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.37 ([0f250cd](https://github.com/big-unibo/iam-demo/commit/0f250cd23bfdda1bcb45db156e55991b6f7261cd))
+* **deps:** update dependency sqlalchemy to v2.0.16 ([69d85d4](https://github.com/big-unibo/iam-demo/commit/69d85d44ee9800fba964bc1b0c776c6f1eec7992))
+
 ## [1.0.34](https://github.com/big-unibo/iam-demo/compare/1.0.33...1.0.34) (2023-06-09)
 
 
