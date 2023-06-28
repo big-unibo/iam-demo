@@ -1,3 +1,18 @@
+## [1.0.36](https://github.com/big-unibo/iam-demo/compare/1.0.35...1.0.36) (2023-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.2 ([1e494ae](https://github.com/big-unibo/iam-demo/commit/1e494ae1c3d5fe7f45c0fc47abd8e21de4b2d18e))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.23.3 ([774d499](https://github.com/big-unibo/iam-demo/commit/774d49906dcbcf4ef589d2afbe1847eed62821ea))
+* **deps:** update dependency numpy to v1.24.4 ([fc1f4a3](https://github.com/big-unibo/iam-demo/commit/fc1f4a328ca071396c85230c2c11199ca2678e86))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.38 ([f6a1265](https://github.com/big-unibo/iam-demo/commit/f6a1265ef3c27936115fafcdaa482a367e8b4cff))
+* **deps:** update dependency sqlalchemy to v2.0.17 ([6fb02fe](https://github.com/big-unibo/iam-demo/commit/6fb02fe1b5a4fc267340cb0fff6596aedcd8d29f))
+
 ## [1.0.35](https://github.com/big-unibo/iam-demo/compare/1.0.34...1.0.35) (2023-06-18)
 
 
