@@ -1,3 +1,29 @@
+## [1.0.39](https://github.com/big-unibo/iam-demo/compare/1.0.38...1.0.39) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.0 ([47f85bb](https://github.com/big-unibo/iam-demo/commit/47f85bbccb0ee4cfbc7a335636cb25a78fb1925a))
+
+
+### Build and continuous integration
+
+* **deps:** update jamesives/github-pages-deploy-action action to v4.4.3 ([9c25f76](https://github.com/big-unibo/iam-demo/commit/9c25f76ffed1117af4cbc735229329bc7b81bc96))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.24.0 ([7c76199](https://github.com/big-unibo/iam-demo/commit/7c761996881bad830b7d562ce08c1f088ad56143))
+* **deps:** update dependency matplotlib to v3.7.2 ([dcce3f4](https://github.com/big-unibo/iam-demo/commit/dcce3f496b9fff48407eba1b22c8af89cfbb5a31))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.39 ([de5a7a3](https://github.com/big-unibo/iam-demo/commit/de5a7a3ce07f96d447ce2872e57b0657bf156057))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.40 ([ea86b0b](https://github.com/big-unibo/iam-demo/commit/ea86b0b4f34314a1a8231e4a87adf1e79f63802d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([ec846ca](https://github.com/big-unibo/iam-demo/commit/ec846ca3b4cc7b7022d957da7ba1bc897680aadf))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.42 ([729caab](https://github.com/big-unibo/iam-demo/commit/729caab6039a30f2b63e7101384b480788f8b857))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([77972fc](https://github.com/big-unibo/iam-demo/commit/77972fca73d64b3daf94e2bbe75890b01508381d))
+* **deps:** update dependency sqlalchemy to v2.0.18 ([4c0da9f](https://github.com/big-unibo/iam-demo/commit/4c0da9fe70b0d58207c489d4cd30d10232bc838c))
+* **deps:** update dependency sqlalchemy to v2.0.19 ([b65b558](https://github.com/big-unibo/iam-demo/commit/b65b558441b64dc36b5eb5b1cdbc82e650918547))
+* **deps:** update node.js to 18.17 ([a8483cb](https://github.com/big-unibo/iam-demo/commit/a8483cb9abd17a7f695908d2b9478632330367b0))
+
 ## [1.0.38](https://github.com/big-unibo/iam-demo/compare/1.0.37...1.0.38) (2023-07-01)
 
 
