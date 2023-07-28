@@ -1,3 +1,20 @@
+## [1.0.41](https://github.com/big-unibo/iam-demo/compare/1.0.40...1.0.41) (2023-07-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.13.0 ([da1fcfe](https://github.com/big-unibo/iam-demo/commit/da1fcfe19f94bce3e6d552fa7ab8f78dbd6c281a))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.12.0 ([5001866](https://github.com/big-unibo/iam-demo/commit/5001866c3d3bb0151fcf18b5a9b43c7118adac88))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.0 ([f8b5639](https://github.com/big-unibo/iam-demo/commit/f8b563901acceb5bf052f1c28364de0d01129cdf))
+
 ## [1.0.40](https://github.com/big-unibo/iam-demo/compare/1.0.39...1.0.40) (2023-07-24)
 
 
