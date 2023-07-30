@@ -1,3 +1,10 @@
+## [1.0.42](https://github.com/big-unibo/iam-demo/compare/1.0.41...1.0.42) (2023-07-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.9.2 ([edd58fe](https://github.com/big-unibo/iam-demo/commit/edd58fe2f9ed2156ef5327d51a98328624dc4f51))
+
 ## [1.0.41](https://github.com/big-unibo/iam-demo/compare/1.0.40...1.0.41) (2023-07-28)
 
 
