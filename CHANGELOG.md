@@ -1,3 +1,10 @@
+## [1.0.43](https://github.com/big-unibo/iam-demo/compare/1.0.42...1.0.43) (2023-08-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v32.1.2-jre ([1b06f40](https://github.com/big-unibo/iam-demo/commit/1b06f409be7e02b075ac488135de239b274c4014))
+
 ## [1.0.42](https://github.com/big-unibo/iam-demo/compare/1.0.41...1.0.42) (2023-07-30)
 
 
