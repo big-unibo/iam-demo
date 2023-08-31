@@ -1,3 +1,28 @@
+## [1.0.45](https://github.com/big-unibo/iam-demo/compare/1.0.44...1.0.45) (2023-08-31)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.1 ([488df9c](https://github.com/big-unibo/iam-demo/commit/488df9c9773091d0b5bb0cbe3de6f502a3c6f9f6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.44 ([94ccd8c](https://github.com/big-unibo/iam-demo/commit/94ccd8ccbf9ebf51f313bfeeb46ea63aeb05bc14))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.46 ([e5e5066](https://github.com/big-unibo/iam-demo/commit/e5e50668b18e3cc3bc1c8d8ebf6a517e8c1df34b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.47 ([89b21f0](https://github.com/big-unibo/iam-demo/commit/89b21f0098ca6d37342c59c62a89485b9cd7c4c4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.48 ([82ad7bb](https://github.com/big-unibo/iam-demo/commit/82ad7bbec7839b373baa1f68d4892373b36b87c6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.50 ([ef8c3d2](https://github.com/big-unibo/iam-demo/commit/ef8c3d2fffbfbc799b358c6652e58454ce458189))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.51 ([ff9b52f](https://github.com/big-unibo/iam-demo/commit/ff9b52f564129bb9c0c08a902f09ce4de11cf330))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.52 ([dca3458](https://github.com/big-unibo/iam-demo/commit/dca3458e8f9d34ea64a6ee62a1da6f2371d8f054))
+* **deps:** update dependency sqlalchemy to v2.0.20 ([13c2155](https://github.com/big-unibo/iam-demo/commit/13c2155020385d87dd0fa6cc2d97f49227ddcab5))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.4 ([371cf70](https://github.com/big-unibo/iam-demo/commit/371cf7062ca4f2ba783a5ababe89e921cfa7837b))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.6.0 ([e39222c](https://github.com/big-unibo/iam-demo/commit/e39222c2bd180bd87973aecf0976bf8712b40d98))
+
 ## [1.0.44](https://github.com/big-unibo/iam-demo/compare/1.0.43...1.0.44) (2023-08-01)
 
 
