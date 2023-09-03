@@ -1,3 +1,15 @@
+## [1.0.46](https://github.com/big-unibo/iam-demo/compare/1.0.45...1.0.46) (2023-09-03)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.53 ([aa4e992](https://github.com/big-unibo/iam-demo/commit/aa4e992926693f5269fa533ebe23360cc826f585))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.9 ([b1d122f](https://github.com/big-unibo/iam-demo/commit/b1d122fa5f45b259d7bb400f40debbd156ef32b5))
+
 ## [1.0.45](https://github.com/big-unibo/iam-demo/compare/1.0.44...1.0.45) (2023-08-31)
 
 
