@@ -1,3 +1,21 @@
+## [1.0.48](https://github.com/big-unibo/iam-demo/compare/1.0.47...1.0.48) (2023-09-12)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.2 ([fa2e437](https://github.com/big-unibo/iam-demo/commit/fa2e437262c02dfdbe0e0174b8d526111ef12f5b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.54 ([cacaa9a](https://github.com/big-unibo/iam-demo/commit/cacaa9a054f7730b48577bdb69cc935f52c1715f))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.13.1 ([6ed9489](https://github.com/big-unibo/iam-demo/commit/6ed94894ad1d80d013edab6aa2ee109ab74a5d06))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4 ([a321b24](https://github.com/big-unibo/iam-demo/commit/a321b24b96657f44b1a52204e507d37ba33fd206))
+
 ## [1.0.47](https://github.com/big-unibo/iam-demo/compare/1.0.46...1.0.47) (2023-09-04)
 
 
