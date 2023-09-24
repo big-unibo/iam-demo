@@ -1,3 +1,30 @@
+## [1.0.49](https://github.com/big-unibo/iam-demo/compare/1.0.48...1.0.49) (2023-09-24)
+
+
+### Dependency updates
+
+* **deps:** update dependency matplotlib to v3.7.3 ([a418f32](https://github.com/big-unibo/iam-demo/commit/a418f32c41ec5d2347c5b8ba89a48179a6a3805d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.55 ([71c7284](https://github.com/big-unibo/iam-demo/commit/71c728475e2dd7989724a4be202d5f26765fb633))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.56 ([8ab60d2](https://github.com/big-unibo/iam-demo/commit/8ab60d28f127b64cd89eacddfc63437077f0779d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.58 ([7a8c07d](https://github.com/big-unibo/iam-demo/commit/7a8c07d3454520bbdfc9c1f18a23d82522d83d01))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.59 ([d194154](https://github.com/big-unibo/iam-demo/commit/d1941549f602e99b571937231619bbc654dc63b0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.60 ([7616c75](https://github.com/big-unibo/iam-demo/commit/7616c7565d930c8a1ef9d25e0f91dad5cfc57c12))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.61 ([4652d0d](https://github.com/big-unibo/iam-demo/commit/4652d0dee41f9c3cda27edb652747b61a7c016c7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.62 ([37d50e3](https://github.com/big-unibo/iam-demo/commit/37d50e3e449f7e3af2c3965cde8d224c2e5ab5e0))
+* **deps:** update dependency sqlalchemy to v2.0.21 ([c7302a4](https://github.com/big-unibo/iam-demo/commit/c7302a4ebc397377fce21d63ada7cb24dddf236b))
+* **deps:** update node.js to 18.18 ([5b91654](https://github.com/big-unibo/iam-demo/commit/5b916544ccdd503a31f37af7103c3f419177a8b6))
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.5 ([55cde24](https://github.com/big-unibo/iam-demo/commit/55cde24f71951d2f03cc50272940e2baf0da6198))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.0 ([eb54d8a](https://github.com/big-unibo/iam-demo/commit/eb54d8a71f0b5d1e031d47f089f3eb31064615c9))
+* **deps:** update actions/setup-java action to v3.13.0 ([b7acb3c](https://github.com/big-unibo/iam-demo/commit/b7acb3c22c44611a817af414bed5d537ced8784c))
+
 ## [1.0.48](https://github.com/big-unibo/iam-demo/compare/1.0.47...1.0.48) (2023-09-12)
 
 
