@@ -1,3 +1,18 @@
+## [1.0.50](https://github.com/big-unibo/iam-demo/compare/1.0.49...1.0.50) (2023-09-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.63 ([8b081d1](https://github.com/big-unibo/iam-demo/commit/8b081d17f3c890d94be0f1570c5de8fd2e200f1f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.64 ([dae63cc](https://github.com/big-unibo/iam-demo/commit/dae63ccc06965d4b11bea923be841460d6263f00))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.65 ([b2ca6e9](https://github.com/big-unibo/iam-demo/commit/b2ca6e9823079c39b2250eb9f64d3cbb2e7f7d7b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.66 ([240c6da](https://github.com/big-unibo/iam-demo/commit/240c6da0e86ac9806720fcdf6b2c2d80b2397a7d))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.14.0 ([7fb4e75](https://github.com/big-unibo/iam-demo/commit/7fb4e7589f04859c4e64811e9c01e7b8478d4e81))
+
 ## [1.0.49](https://github.com/big-unibo/iam-demo/compare/1.0.48...1.0.49) (2023-09-24)
 
 
