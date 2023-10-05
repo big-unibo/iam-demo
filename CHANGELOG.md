@@ -1,3 +1,17 @@
+## [1.0.51](https://github.com/big-unibo/iam-demo/compare/1.0.50...1.0.51) (2023-10-05)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v7.6.3 ([cef9a4e](https://github.com/big-unibo/iam-demo/commit/cef9a4e3669c0725a5e51320e096befde396f578))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.67 ([59231fd](https://github.com/big-unibo/iam-demo/commit/59231fd34a63b415bf611f4df3acd5daaf7e5ffb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.68 ([f80cbb6](https://github.com/big-unibo/iam-demo/commit/f80cbb64d41458f6b94d9857513038f91b13dcc0))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.5 ([67bb978](https://github.com/big-unibo/iam-demo/commit/67bb978423980d4410931a7ab4b324d8b85e392c))
+
 ## [1.0.50](https://github.com/big-unibo/iam-demo/compare/1.0.49...1.0.50) (2023-09-30)
 
 
