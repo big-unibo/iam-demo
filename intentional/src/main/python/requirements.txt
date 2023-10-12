@@ -7,5 +7,5 @@ requests==2.31.0
 scikit-learn
 scikit-learn-extra
 scipy==1.10.1
-SQLAlchemy==2.0.21
+SQLAlchemy==2.0.22
 yellowbrick==1.5
