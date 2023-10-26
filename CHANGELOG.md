@@ -1,3 +1,19 @@
+## [1.0.56](https://github.com/big-unibo/iam-demo/compare/1.0.55...1.0.56) (2023-10-26)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.26.0 ([3304d6d](https://github.com/big-unibo/iam-demo/commit/3304d6d94661b07bb240b398127491c42cac7f53))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.69 ([1e3124f](https://github.com/big-unibo/iam-demo/commit/1e3124fc7ce64b7d84899a0008b347e2760f2068))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.70 ([7b88f0d](https://github.com/big-unibo/iam-demo/commit/7b88f0d66532d05d9ed2fecad0b1af3e4838c6f1))
+* **deps:** update node.js to 20.9 ([3615d24](https://github.com/big-unibo/iam-demo/commit/3615d2463742eee131dad1d91604a7d5d16b710d))
+* **deps:** update node.js to v20 ([72ec50f](https://github.com/big-unibo/iam-demo/commit/72ec50ff527b4620ca63260e6df0da51548dde16))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.15.0 ([8b72247](https://github.com/big-unibo/iam-demo/commit/8b722471286978f27bb89e6c2582ec88c62d7963))
+
 ## [1.0.55](https://github.com/big-unibo/iam-demo/compare/1.0.54...1.0.55) (2023-10-18)
 
 
