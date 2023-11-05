@@ -1,3 +1,16 @@
+## [1.0.57](https://github.com/big-unibo/iam-demo/compare/1.0.56...1.0.57) (2023-11-05)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.71 ([eaab011](https://github.com/big-unibo/iam-demo/commit/eaab0117c5fd46864f8abe5dc5418a862dd5651b))
+* **deps:** update dependency sqlalchemy to v2.0.23 ([8b96afe](https://github.com/big-unibo/iam-demo/commit/8b96afeb1e1701f282560dea4f8d30689a5a38f6))
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.1 ([837f55c](https://github.com/big-unibo/iam-demo/commit/837f55c161c6669c11f1931e7e7bc1f1768febb2))
+
 ## [1.0.56](https://github.com/big-unibo/iam-demo/compare/1.0.55...1.0.56) (2023-10-26)
 
 
