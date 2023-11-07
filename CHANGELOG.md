@@ -1,3 +1,16 @@
+## [1.0.58](https://github.com/big-unibo/iam-demo/compare/1.0.57...1.0.58) (2023-11-07)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.72 ([a276bd3](https://github.com/big-unibo/iam-demo/commit/a276bd305b9f3cc2d5430594ae43ff3486679b46))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.74 ([b2ef95e](https://github.com/big-unibo/iam-demo/commit/b2ef95e5f907ca931dd8a85ae78ee83305c95a72))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.6 ([6accd96](https://github.com/big-unibo/iam-demo/commit/6accd962cd2337eb7f9f8763792b4e10738cdbcd))
+
 ## [1.0.57](https://github.com/big-unibo/iam-demo/compare/1.0.56...1.0.57) (2023-11-05)
 
 
