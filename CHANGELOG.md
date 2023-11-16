@@ -1,3 +1,16 @@
+## [1.0.59](https://github.com/big-unibo/iam-demo/compare/1.0.58...1.0.59) (2023-11-16)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.75 ([351f0e0](https://github.com/big-unibo/iam-demo/commit/351f0e065ba472937739d8f93946460d2292b1bd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.76 ([2b3771f](https://github.com/big-unibo/iam-demo/commit/2b3771fcca3dde4845176669b08578712353c962))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.16.0 ([1c17ba3](https://github.com/big-unibo/iam-demo/commit/1c17ba369859bd47999204582bd52e07f72eda4f))
+
 ## [1.0.58](https://github.com/big-unibo/iam-demo/compare/1.0.57...1.0.58) (2023-11-07)
 
 
