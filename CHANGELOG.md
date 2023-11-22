@@ -1,3 +1,17 @@
+## [1.0.61](https://github.com/big-unibo/iam-demo/compare/1.0.60...1.0.61) (2023-11-22)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.27.0 ([a3e2aaf](https://github.com/big-unibo/iam-demo/commit/a3e2aafcaaef40211c4a037e4a4026983b07ed75))
+* **deps:** update dependency matplotlib to v3.7.4 ([8f20e11](https://github.com/big-unibo/iam-demo/commit/8f20e116a01a70165fd807f375367db623297049))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.77 ([0fe94d8](https://github.com/big-unibo/iam-demo/commit/0fe94d8273f0f33ae7eed0666821d4f8449de10a))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.14.0 ([800e1d2](https://github.com/big-unibo/iam-demo/commit/800e1d26703d5f0aed9937b849ad073e6fa178bb))
+
 ## [1.0.60](https://github.com/big-unibo/iam-demo/compare/1.0.59...1.0.60) (2023-11-16)
 
 
