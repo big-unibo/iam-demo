@@ -1,3 +1,10 @@
+## [1.0.62](https://github.com/big-unibo/iam-demo/compare/1.0.61...1.0.62) (2023-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.9 ([b07e503](https://github.com/big-unibo/iam-demo/commit/b07e50375b4cb99ecacae05b0694b8beef5ec73c))
+
 ## [1.0.61](https://github.com/big-unibo/iam-demo/compare/1.0.60...1.0.61) (2023-11-22)
 
 
