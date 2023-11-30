@@ -1,3 +1,23 @@
+## [1.0.63](https://github.com/big-unibo/iam-demo/compare/1.0.62...1.0.63) (2023-11-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.27.1 ([a9884ea](https://github.com/big-unibo/iam-demo/commit/a9884ea2c1cce428dd5910c5ab67ae11a4e2edf0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.78 ([550daeb](https://github.com/big-unibo/iam-demo/commit/550daebe9791394caa1e9d5fd7bdedaf3be41228))
+* **deps:** update node.js to 20.10 ([43c7db7](https://github.com/big-unibo/iam-demo/commit/43c7db7e6a1d9b6b368d9318f71d36d0500aba8c))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.15.1 ([6a6b158](https://github.com/big-unibo/iam-demo/commit/6a6b1582a55fc80b10db19e2a0d4c2d507a3323e))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4 ([1950f23](https://github.com/big-unibo/iam-demo/commit/1950f23fde8d808ab4d3e14fe28fb9727b6530d9))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.5.0 ([f6ce5a6](https://github.com/big-unibo/iam-demo/commit/f6ce5a60d8f27ddd84ac22c5e314bad2d8d00e89))
+
 ## [1.0.62](https://github.com/big-unibo/iam-demo/compare/1.0.61...1.0.62) (2023-11-22)
 
 
