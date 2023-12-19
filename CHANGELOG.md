@@ -1,3 +1,18 @@
+## [1.0.65](https://github.com/big-unibo/iam-demo/compare/1.0.64...1.0.65) (2023-12-19)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.80 ([b2a84eb](https://github.com/big-unibo/iam-demo/commit/b2a84ebb36501484f621c07c9f0254812f6b7063))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.81 ([a887d52](https://github.com/big-unibo/iam-demo/commit/a887d52b82706ba41f958eefb44a501d37550ad3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.82 ([63d152f](https://github.com/big-unibo/iam-demo/commit/63d152f487094db537f620403f3b85908d8f0cef))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.84 ([7712daa](https://github.com/big-unibo/iam-demo/commit/7712daa7f8c7b96a48423e820d6dc55d7764c4f8))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v33 ([15f2bc1](https://github.com/big-unibo/iam-demo/commit/15f2bc156eabaf508361af362e596f9e5866b74e))
+
 ## [1.0.64](https://github.com/big-unibo/iam-demo/compare/1.0.63...1.0.64) (2023-12-07)
 
 
