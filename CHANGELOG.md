@@ -1,3 +1,17 @@
+## [1.0.68](https://github.com/big-unibo/iam-demo/compare/1.0.67...1.0.68) (2023-12-29)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.28.0 ([a5f5979](https://github.com/big-unibo/iam-demo/commit/a5f5979ecd63687813a77a771e4c54299845a299))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.85 ([a063885](https://github.com/big-unibo/iam-demo/commit/a063885a781fcae695222501f0685a27d56fba68))
+* **deps:** update dependency sqlalchemy to v2.0.24 ([3cd040c](https://github.com/big-unibo/iam-demo/commit/3cd040c5220f744f54adfaaa39937f25f24f0a22))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.10 ([19ce893](https://github.com/big-unibo/iam-demo/commit/19ce893e66a8afc63278350095e3fe2b4aff6b59))
+
 ## [1.0.67](https://github.com/big-unibo/iam-demo/compare/1.0.66...1.0.67) (2023-12-24)
 
 
