@@ -1,3 +1,15 @@
+## [1.0.70](https://github.com/big-unibo/iam-demo/compare/1.0.69...1.0.70) (2024-01-09)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.25 ([8860716](https://github.com/big-unibo/iam-demo/commit/8860716db256d6ecc9ba46279803125a0976101d))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.11 ([916dca5](https://github.com/big-unibo/iam-demo/commit/916dca5dbe683b97405f0b0896e4fd33ab5641c9))
+
 ## [1.0.69](https://github.com/big-unibo/iam-demo/compare/1.0.68...1.0.69) (2023-12-29)
 
 
