@@ -1,3 +1,16 @@
+## [1.0.72](https://github.com/big-unibo/iam-demo/compare/1.0.71...1.0.72) (2024-01-20)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.0 ([4b84696](https://github.com/big-unibo/iam-demo/commit/4b84696cb8d10e1a95c115a72d5e869a7767da91))
+* **deps:** update node.js to 20.11 ([50ea497](https://github.com/big-unibo/iam-demo/commit/50ea49706289b73abea9419c58259afe0e6b52f3))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.9.3 ([44f2ae0](https://github.com/big-unibo/iam-demo/commit/44f2ae088f685374e04020e77531cd818335182b))
+
 ## [1.0.71](https://github.com/big-unibo/iam-demo/compare/1.0.70...1.0.71) (2024-01-09)
 
 
