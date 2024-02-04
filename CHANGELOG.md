@@ -1,3 +1,10 @@
+## [1.0.75](https://github.com/big-unibo/iam-demo/compare/1.0.74...1.0.75) (2024-02-04)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.2 ([a004baf](https://github.com/big-unibo/iam-demo/commit/a004baf03a3a01db5d29c1309a42c880057a6121))
+
 ## [1.0.74](https://github.com/big-unibo/iam-demo/compare/1.0.73...1.0.74) (2024-02-01)
 
 
