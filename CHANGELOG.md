@@ -1,3 +1,10 @@
+## [1.0.77](https://github.com/big-unibo/iam-demo/compare/1.0.76...1.0.77) (2024-02-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20240205 ([4090eb3](https://github.com/big-unibo/iam-demo/commit/4090eb31df7d88194ed692902edc43a6074b1d19))
+
 ## [1.0.76](https://github.com/big-unibo/iam-demo/compare/1.0.75...1.0.76) (2024-02-06)
 
 
