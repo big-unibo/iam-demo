@@ -1,3 +1,16 @@
+## [1.0.76](https://github.com/big-unibo/iam-demo/compare/1.0.75...1.0.76) (2024-02-06)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v7.6.4 ([ea5f790](https://github.com/big-unibo/iam-demo/commit/ea5f790fd6f49cd9a5985d1dfa91a7b20a1a1240))
+* **deps:** update dependency ipykernel to v6.29.1 ([046597f](https://github.com/big-unibo/iam-demo/commit/046597f77a6ab55f334a3533511cd74cec930564))
+
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.12 ([59aa374](https://github.com/big-unibo/iam-demo/commit/59aa374e0643afef0ea4c7fa4bd8242a57180d0e))
+
 ## [1.0.75](https://github.com/big-unibo/iam-demo/compare/1.0.74...1.0.75) (2024-02-04)
 
 
