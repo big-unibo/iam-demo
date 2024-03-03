@@ -1,3 +1,24 @@
+## [1.0.78](https://github.com/big-unibo/iam-demo/compare/1.0.77...1.0.78) (2024-03-03)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.2 ([db6c87d](https://github.com/big-unibo/iam-demo/commit/db6c87db98f06b95c0f88a6f6f7f4687b4295333))
+* **deps:** update dependency ipykernel to v6.29.3 ([3d125b1](https://github.com/big-unibo/iam-demo/commit/3d125b14bb4ff695c575c0a366f280363aea9343))
+* **deps:** update dependency matplotlib to v3.7.5 ([7b240b7](https://github.com/big-unibo/iam-demo/commit/7b240b736dc6c6f464e979c7654898df938f434f))
+* **deps:** update dependency sqlalchemy to v2.0.26 ([fb40cdd](https://github.com/big-unibo/iam-demo/commit/fb40cdd85c089346c9e5de08b3998f572a175886))
+* **deps:** update dependency sqlalchemy to v2.0.27 ([a8ab1e2](https://github.com/big-unibo/iam-demo/commit/a8ab1e23ed947cac9aa806e374b1bc6614c7f88e))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20240303 ([fae8a0c](https://github.com/big-unibo/iam-demo/commit/fae8a0c4b19dcb339442d5208db9b27fa0546791))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.1.0 ([8a517ee](https://github.com/big-unibo/iam-demo/commit/8a517eec291d264d12f584ea052741fe206b1a1e))
+
 ## [1.0.77](https://github.com/big-unibo/iam-demo/compare/1.0.76...1.0.77) (2024-02-06)
 
 
