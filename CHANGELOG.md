@@ -1,3 +1,15 @@
+## [1.0.80](https://github.com/big-unibo/iam-demo/compare/1.0.79...1.0.80) (2024-03-09)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.28 ([b264491](https://github.com/big-unibo/iam-demo/commit/b26449133e01d9a13f312820c6d1dfd4518b98ce))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.16.2 ([208294a](https://github.com/big-unibo/iam-demo/commit/208294a0cf68acaaf621440cac70d649ccb94d86))
+
 ## [1.0.79](https://github.com/big-unibo/iam-demo/compare/1.0.78...1.0.79) (2024-03-04)
 
 
