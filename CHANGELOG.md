@@ -1,3 +1,15 @@
+## [1.0.84](https://github.com/big-unibo/iam-demo/compare/1.0.83...1.0.84) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v33.1.0-jre ([0e87310](https://github.com/big-unibo/iam-demo/commit/0e8731019947fb15122cc16ac96ae06c1d95e1fa))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.2.0 ([7158df3](https://github.com/big-unibo/iam-demo/commit/7158df36e36230eccdb14c147d6387b76f2e42a3))
+
 ## [1.0.83](https://github.com/big-unibo/iam-demo/compare/1.0.82...1.0.83) (2024-03-13)
 
 
