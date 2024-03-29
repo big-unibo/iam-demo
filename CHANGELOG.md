@@ -1,3 +1,21 @@
+## [1.0.85](https://github.com/big-unibo/iam-demo/compare/1.0.84...1.0.85) (2024-03-29)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.29 ([6689658](https://github.com/big-unibo/iam-demo/commit/6689658d9866ba223c69a45608149746dbb7ea3f))
+* **deps:** update node.js to 20.12 ([0c2f424](https://github.com/big-unibo/iam-demo/commit/0c2f4249f5dc140e7956487805f61de2985f0534))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.16.0 ([e2c77ac](https://github.com/big-unibo/iam-demo/commit/e2c77aca63bd4fe02a746a0bda9e54e464cf2e13))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.2.1 ([a524b65](https://github.com/big-unibo/iam-demo/commit/a524b65694e82600ea34c38ad73b0a2261e034b5))
+
 ## [1.0.84](https://github.com/big-unibo/iam-demo/compare/1.0.83...1.0.84) (2024-03-14)
 
 
