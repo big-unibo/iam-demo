@@ -1,3 +1,15 @@
+## [1.0.86](https://github.com/big-unibo/iam-demo/compare/1.0.85...1.0.86) (2024-04-08)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.4 ([b6ab966](https://github.com/big-unibo/iam-demo/commit/b6ab966262da6f09bbc43472ba0f8dd460382243))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.16.1 ([d22461c](https://github.com/big-unibo/iam-demo/commit/d22461c35543dea9b5351a02393bf05b87861d31))
+
 ## [1.0.85](https://github.com/big-unibo/iam-demo/compare/1.0.84...1.0.85) (2024-03-29)
 
 
