@@ -1,3 +1,10 @@
+## [1.0.88](https://github.com/big-unibo/iam-demo/compare/1.0.87...1.0.88) (2024-04-12)
+
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.13 ([5c09b13](https://github.com/big-unibo/iam-demo/commit/5c09b13a7f7e627795de12c5273dcc704b92ec31))
+
 ## [1.0.87](https://github.com/big-unibo/iam-demo/compare/1.0.86...1.0.87) (2024-04-09)
 
 
