@@ -1,3 +1,15 @@
+## [1.0.89](https://github.com/big-unibo/iam-demo/compare/1.0.88...1.0.89) (2024-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.7 ([1b73276](https://github.com/big-unibo/iam-demo/commit/1b73276dd60245f2589921d4efbfec63c8bef632))
+
+
+### Build and continuous integration
+
+* **deps:** update jamesives/github-pages-deploy-action action to v4.6.0 ([e83e92d](https://github.com/big-unibo/iam-demo/commit/e83e92d68d76c8adf6bb13e583d9fd24b3ed88c7))
+
 ## [1.0.88](https://github.com/big-unibo/iam-demo/compare/1.0.87...1.0.88) (2024-04-12)
 
 
