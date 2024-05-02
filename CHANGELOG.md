@@ -1,3 +1,16 @@
+## [1.0.90](https://github.com/big-unibo/iam-demo/compare/1.0.89...1.0.90) (2024-05-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v33.2.0-jre ([9706c09](https://github.com/big-unibo/iam-demo/commit/9706c09bff0fff0a7343e04cf3644a140e1ea101))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.3 ([1e3793c](https://github.com/big-unibo/iam-demo/commit/1e3793c1b1f183044fbba6fdb88ebc33826546e9))
+* **deps:** update actions/checkout action to v4.1.4 ([dd6f2e9](https://github.com/big-unibo/iam-demo/commit/dd6f2e93b9e2e76950d874caa2ade9808e859a26))
+
 ## [1.0.89](https://github.com/big-unibo/iam-demo/compare/1.0.88...1.0.89) (2024-04-19)
 
 
