@@ -1,3 +1,10 @@
+## [1.0.91](https://github.com/big-unibo/iam-demo/compare/1.0.90...1.0.91) (2024-05-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.11.0 ([59325cd](https://github.com/big-unibo/iam-demo/commit/59325cd2d1bf10be68f84ae550424fe6265da267))
+
 ## [1.0.90](https://github.com/big-unibo/iam-demo/compare/1.0.89...1.0.90) (2024-05-02)
 
 
