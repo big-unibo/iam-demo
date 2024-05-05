@@ -1,3 +1,10 @@
+## [1.0.92](https://github.com/big-unibo/iam-demo/compare/1.0.91...1.0.92) (2024-05-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.17.1 ([6f56d7b](https://github.com/big-unibo/iam-demo/commit/6f56d7b01b1815f04f93d6bd791c4023c441dc6c))
+
 ## [1.0.91](https://github.com/big-unibo/iam-demo/compare/1.0.90...1.0.91) (2024-05-03)
 
 
