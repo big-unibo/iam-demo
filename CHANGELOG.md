@@ -1,3 +1,16 @@
+## [1.0.94](https://github.com/big-unibo/iam-demo/compare/1.0.93...1.0.94) (2024-05-08)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.30 ([6af8f04](https://github.com/big-unibo/iam-demo/commit/6af8f041a47ff8b41c58e5a321c9e92860197472))
+* **deps:** update node.js to 20.13 ([a4f82ae](https://github.com/big-unibo/iam-demo/commit/a4f82ae1cf829e725675240f0ef4a3381c035f6a))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.11 ([f99bad2](https://github.com/big-unibo/iam-demo/commit/f99bad2dc5f76cabdd215d86d5f0860317bae0ce))
+
 ## [1.0.93](https://github.com/big-unibo/iam-demo/compare/1.0.92...1.0.93) (2024-05-05)
 
 
