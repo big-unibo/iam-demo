@@ -1,3 +1,24 @@
+## [1.0.95](https://github.com/big-unibo/iam-demo/compare/1.0.94...1.0.95) (2024-05-31)
+
+
+### Dependency updates
+
+* **deps:** update dependency requests to v2.32.2 ([c2d26fb](https://github.com/big-unibo/iam-demo/commit/c2d26fbef794d598dcb686b7e6765835471e09b5))
+* **deps:** update dependency requests to v2.32.3 ([ba41068](https://github.com/big-unibo/iam-demo/commit/ba410680383f2e4be04ed697f2ac3eb512cb4685))
+* **deps:** update node.js to 20.14 ([9fbdc94](https://github.com/big-unibo/iam-demo/commit/9fbdc9466d26a3298c2add2623094ba00a17047f))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v33.2.1-jre ([b4d0c81](https://github.com/big-unibo/iam-demo/commit/b4d0c81ce5824eeb356384bbfc2cd101cfb2175d))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.5 ([ef63ca9](https://github.com/big-unibo/iam-demo/commit/ef63ca9268d8b2a9b5f31d23ba3040514c3a9754))
+* **deps:** update actions/checkout action to v4.1.6 ([f827cfb](https://github.com/big-unibo/iam-demo/commit/f827cfbd84b074e9cabc5ecd79620ce4e0c64d4b))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.6.1 ([740f35d](https://github.com/big-unibo/iam-demo/commit/740f35d3bcfa0c9f79a1dde583fdddc2c925f81c))
+
 ## [1.0.94](https://github.com/big-unibo/iam-demo/compare/1.0.93...1.0.94) (2024-05-08)
 
 
