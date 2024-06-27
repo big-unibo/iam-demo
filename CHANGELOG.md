@@ -1,3 +1,15 @@
+## [1.0.97](https://github.com/big-unibo/iam-demo/compare/1.0.96...1.0.97) (2024-06-27)
+
+
+### Dependency updates
+
+* **deps:** update node.js to 20.15 ([bcdcaf4](https://github.com/big-unibo/iam-demo/commit/bcdcaf42e3ab9ca1f356dd1ffb3bf2a3f4eae34b))
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.3 ([c4f5476](https://github.com/big-unibo/iam-demo/commit/c4f54764d395821ac38568510edd826bbcb52a08))
+
 ## [1.0.96](https://github.com/big-unibo/iam-demo/compare/1.0.95...1.0.96) (2024-06-21)
 
 
