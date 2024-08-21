@@ -6,6 +6,6 @@ pandas==1.5.3
 requests==2.32.3
 scikit-learn
 scikit-learn-extra
-scipy==1.10.1
+scipy==1.14.1
 SQLAlchemy==2.0.31
 yellowbrick==1.5
