@@ -20,7 +20,7 @@ jobs:
         with:
           branch: gh-pages
           folder: web # The folder the action should deploy.
-      - uses: actions/setup-java@v4.2.1
+      - uses: actions/setup-java@v4.5.0
         with:
           distribution: 'adopt'
           java-version: '14' # ${{ matrix.java }}
@@ -41,7 +41,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.7
-      - uses: actions/setup-java@v4.2.1
+      - uses: actions/setup-java@v4.5.0
         with:
           distribution: 'adopt'
           java-version: '14'
